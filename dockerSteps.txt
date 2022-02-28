@@ -1,0 +1,24 @@
+
+docker build -t juanossa/springboot-heroku-demo .
+
+docker run -d \
+--name springboot-heroku-demo \
+-p 80:8080 \
+juanossa/springboot-heroku-demo
+
+
+docker run -d --name springboot-heroku-demo -p 80:8080 juanossa/springboot-heroku-demo
+
+
+docker run --name demo-postgres -e POSTGRES_DB=sakila -e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=juank -d postgres
+
+docker run -d \
+--name springboot-heroku-demo \
+--link demo-postgres:postgres \
+-p 80:8080 \
+sivaprasadreddy/springboot-heroku-demo
+
+docker run -d --name springboot-heroku-demo --link demo-postgres:postgres -p 80:8080 juanossa/springboot-heroku-demo
+
+
+docker rm springboot-heroku-demo
