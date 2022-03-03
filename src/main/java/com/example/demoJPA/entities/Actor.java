@@ -47,7 +47,7 @@ public class Actor implements Serializable {
     @Basic(optional = false)
     @Column(name = "last_name")
     private String lastName;
-    @Basic(optional = false)
+    @Basic(optional = true)
     @Column(name = "last_update")
     @Temporal(TemporalType.TIMESTAMP)
     private Date lastUpdate;
