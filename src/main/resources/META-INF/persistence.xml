@@ -4,9 +4,9 @@
     <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
     <properties>
       <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost:5432/dvdrental"/>
-      <property name="javax.persistence.jdbc.user" value="toledo"/>
+      <property name="javax.persistence.jdbc.user" value="juan"/>
       <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver"/>
-      <property name="javax.persistence.jdbc.password" value="toledo"/>
+      <property name="javax.persistence.jdbc.password" value="juan"/>
     </properties>
   </persistence-unit>
 </persistence>

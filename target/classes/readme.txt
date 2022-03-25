@@ -1,7 +1,7 @@
 Listar Actores desde sakila postgres
 Arquitectura basica Component Controller Service
 
-Demo project for Spring Boot 2.4.2 java application with jdbc
+Demo project for Spring Boot 2.6.4 java application with jdbc
 JdbcTemplate from package org.springframework.jdbc.core;
 
 spring initializr
@@ -30,6 +30,7 @@ lanzar aplicacion
 
 $ mvn clean install
 $ mvn spring-boot:run
+
 josemeva@DESKTOP-178GV1H /cygdrive/c/Interactiva/seccion04-spring/demoJPA/target
 $ java -jar demoJPA-0.0.1-SNAPSHOT.jar
 
