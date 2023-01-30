@@ -1,6 +1,10 @@
 /home/user01/RoomD/servidores/JavaEE/demoJPA/src/main/java/com/example/demoJPA/DemoJpaApplication.java
+/home/user01/RoomD/servidores/JavaEE/demoJPA/src/main/java/com/example/demoJPA/models/UsuarioRepository.java
 /home/user01/RoomD/servidores/JavaEE/demoJPA/src/main/java/com/example/demoJPA/models/ActorRepository.java
 /home/user01/RoomD/servidores/JavaEE/demoJPA/src/main/java/com/example/demoJPA/services/ActorService.java
 /home/user01/RoomD/servidores/JavaEE/demoJPA/src/main/java/com/example/demoJPA/controllers/HolaController.java
 /home/user01/RoomD/servidores/JavaEE/demoJPA/src/main/java/com/example/demoJPA/controllers/ActorController.java
+/home/user01/RoomD/servidores/JavaEE/demoJPA/src/main/java/com/example/demoJPA/entities/Usuario.java
+/home/user01/RoomD/servidores/JavaEE/demoJPA/src/main/java/com/example/demoJPA/controllers/UsuarioController.java
 /home/user01/RoomD/servidores/JavaEE/demoJPA/src/main/java/com/example/demoJPA/entities/Actor.java
+/home/user01/RoomD/servidores/JavaEE/demoJPA/src/main/java/com/example/demoJPA/services/UsuarioService.java
