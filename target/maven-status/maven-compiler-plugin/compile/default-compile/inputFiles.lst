@@ -1,14 +1,6 @@
 /home/user01/RoomD/servidores/JavaEE/demoJPA/src/main/java/com/example/demoJPA/DemoJpaApplication.java
-/home/user01/RoomD/servidores/JavaEE/demoJPA/src/main/java/com/example/demoJPA/entities/City.java
-/home/user01/RoomD/servidores/JavaEE/demoJPA/src/main/java/com/example/demoJPA/entities/Todo.java
-/home/user01/RoomD/servidores/JavaEE/demoJPA/src/main/java/com/example/demoJPA/entities/Address.java
-/home/user01/RoomD/servidores/JavaEE/demoJPA/src/main/java/com/example/demoJPA/entities/Customer.java
-/home/user01/RoomD/servidores/JavaEE/demoJPA/src/main/java/com/example/demoJPA/entities/User.java
-/home/user01/RoomD/servidores/JavaEE/demoJPA/src/main/java/com/example/demoJPA/entities/Invoice.java
 /home/user01/RoomD/servidores/JavaEE/demoJPA/src/main/java/com/example/demoJPA/models/ActorRepository.java
 /home/user01/RoomD/servidores/JavaEE/demoJPA/src/main/java/com/example/demoJPA/services/ActorService.java
 /home/user01/RoomD/servidores/JavaEE/demoJPA/src/main/java/com/example/demoJPA/controllers/HolaController.java
 /home/user01/RoomD/servidores/JavaEE/demoJPA/src/main/java/com/example/demoJPA/controllers/ActorController.java
-/home/user01/RoomD/servidores/JavaEE/demoJPA/src/main/java/com/example/demoJPA/entities/Category.java
 /home/user01/RoomD/servidores/JavaEE/demoJPA/src/main/java/com/example/demoJPA/entities/Actor.java
-/home/user01/RoomD/servidores/JavaEE/demoJPA/src/main/java/com/example/demoJPA/entities/Country.java
