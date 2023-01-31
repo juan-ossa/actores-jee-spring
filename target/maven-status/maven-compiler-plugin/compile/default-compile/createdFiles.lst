@@ -1,12 +1,10 @@
 com/example/demoJPA/controllers/HolaController.class
 com/example/demoJPA/models/UsuarioRepository.class
 com/example/demoJPA/models/ActorRepository.class
-com/example/demoJPA/entities/Usuario_.class
 com/example/demoJPA/services/ActorService.class
 com/example/demoJPA/controllers/ActorController.class
 com/example/demoJPA/controllers/UsuarioController.class
 com/example/demoJPA/services/UsuarioService.class
 com/example/demoJPA/entities/Usuario.class
 com/example/demoJPA/entities/Actor.class
-com/example/demoJPA/entities/Actor_.class
 com/example/demoJPA/DemoJpaApplication.class
